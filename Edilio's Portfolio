@@ -1,0 +1,157 @@
+  <!DOCTYPE xhtml>
+  <html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/css/main.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+    <style>
+    /* desktop size*/
+      @media only screen and (min-width: 960px){
+        .container{
+          width: 700px;
+        }
+      }
+      /* MIDSIZES */
+      @media only screen and (max-width: 960px){
+        .container{
+          width: 600px;
+        }
+      }
+      /* Tablets */
+      @media only screen and (max-width: 600px){
+        .container{
+          width: 100%;
+        }
+      }
+
+      }
+      @media only screen and (width: 400px){
+        .container{
+          width: 100%;
+        }
+
+  }
+    </style>
+  </head>
+  <body bgcolor="000000" style="margin: 0; padding: 0;">
+    <!-- start of html email -->
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>
+          <!-- start of container -->
+    <table class="container" align="center" width="600px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 20px solid #ffffff; padding: 30px 30px 40px 30px;">
+      <!-- row 1 -->
+      <tr class="email-magic">
+      <td align="center" bgcolor= "#70bbd9" style="padding: 40px 0 30px 0;">
+        <img src="https://i.postimg.cc/DwQH79Jp/Email-Magic.png" alt="Creating Email Magic" width="370px" height="230px" style="display: block;">
+      </td>
+      </tr>
+      <!-- End of row  1 -->
+      <!-- Start of Row 2 -->
+      <tr>
+      <td bgcolor= "#ffffff">
+        <table class="Row2" width="100%" cellpadding="0" cellspacing="0">
+          <!-- row 2.1 -->
+            <tr align="center">
+             <td style="font-family: 'Open Sans', sans-serif; padding-top: 30px;">
+               <h2>Lorem ipsum dolor sit amet!</h2>
+             </td>
+            </tr>
+            <tr align="center">
+             <td style="padding-bottom: 10px;">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc semper blandit placerat. Suspendisse mattis risus pretium tempor congue. Vivamus egestas, libero at suscipit interdum, velit diam sagittis massa.
+              </p>
+             </td>
+            </tr>
+   <!-- End of row 2.1 -->
+   <!-- row 2.2 -->
+   <tr>
+    <td>
+      <table width="100%" align="left" cellspacing="0" cellpadding="0" border="0">
+      <tr>
+      <td>
+      <!-- Left Column IMG-->
+     <table class="Left-Column" align="left" width="50%" cellpadding="0" cellspacing="0" style="border-right: 15px solid #ffffff;">
+       <tr bgcolor="#282e3a" height="103.5px">
+         <td align="center">
+           <img src="https://i.postimg.cc/k5n96BGW/smartphone-flat-icons.png" alt="Smart Phone" height= "103.5px">
+         </td>
+       </tr>
+     <!-- Left Column Text-->
+     <tr bgcolor="ffffff">
+          <td align="left" style="padding: 10px 0 15px 0;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc semper blandit placerat. Suspendisse mattis risus pretium tempor congue. Vivamus egestas, libero at suscipit interdum, velit diam sagittis massa, quis ullamcorper ipsum nibh.
+            </p>
+          </td>
+        </tr>
+      </table>
+
+  <!-- Right Column -->
+     <table class="Right-Column" align="left" width="50%" cellpadding="0" cellspacing="0" style="border-left: 15px solid #ffffff;">
+       <tr bgcolor="#282e3a">
+         <td align="center">
+       <img src="https://i.postimg.cc/qqGGYjf5/clock-flat-icons.png" alt="Smart Phone" width="156.75px" height= "103.5px" style="padding: ;">
+     </td>
+   </tr>
+  <!-- Right Column TEXT-->
+  <tr bgcolor="ffffff">
+       <td align="Left" style="padding: 10px 0 15px 0;">
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc semper blandit placerat. Suspendisse mattis risus pretium tempor congue. Vivamus egestas, libero at suscipit interdum, velit diam sagittis massa, quis ullamcorper ipsum nibh.
+         </p>
+       </td>
+     </tr>
+   </table>
+   <!-- End of Right Column -->
+  <!-- Right Column TEXT ENDS-->
+    </td>
+       </tr>
+  </table>
+    </td>
+   </tr>
+   <!-- Row 2.2 ENDS -->
+   </table>
+   <!-- Row2 Ends -->
+  </td>
+  </tr>
+  <!-- End of Row 2 -->
+  <!--Start of row 3 -->
+  <tr>
+  <td bgcolor= "#ee4c50">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left" style="color: white; font-size: 12px; padding: 12px 0 12px 20px;">
+          <p>
+            ®Lorem ipsum dolor sit amet <br><span><a href="#" style="text-decoration: underline; color: white;">Unsubscribe</a></span> to this newsletter instantly
+          </p>
+          </td>
+
+         <td align="right">
+           <div style="margin: 0 auto; width: 30px">
+          <a href="https://twitter.com">
+          <img src="https://i.postimg.cc/CL7ZRTD9/Metrize-Icons-Twitter.png" alt="Twitter" style="width: 30px">
+            </a>
+          </div>
+        </td>
+
+        <td align="right">
+          <div style="margin: 0 auto; width: 30px">
+        <a href="https://facebook.com">
+        <img src="https://i.postimg.cc/jjFPL0VR/Metrize-Icons-Facebook.png" alt="facebook Icon" style="width: 30px">
+       </a>
+     </div>
+       </td>
+
+      </tr>
+    </table>
+
+  </td>
+  </tr>
+  </table>
+    <!-- end of html email -->
+    </td>
+    </tr>
+    </table>
+  </body>
+  </html>
